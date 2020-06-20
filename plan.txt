@@ -1,0 +1,29 @@
+1. Node js
+2. npm js
+3. npm init
+4. npm install node-sass
+5. variables => $color
+6. compiling sass to css (npm run commandName)
+7. watcher
+8. different between build & watcher
+9. vriables how to use ($)
+10. nested selectors (&)
+11. use (&) to reffer to parrent selectors
+12. extend the properties of selectors (@extend)
+13. placeholder selectors (%)
+14. intro to Mixin (@mixin) 
+15. mixim default parametr
+16. @media ( 768px) { } in scss
+17. @import in css & in scss
+18. math operations
+
+
+{({(GULP)})}
+
++1. clone repo https://github.com/luxplanjay/gulp-starter-kit
++2. how to read package.json
++3. npm i
++4. npm start
++5. npm run build
+6. compile images (npm run images)
+7. how to move project to gitHub
